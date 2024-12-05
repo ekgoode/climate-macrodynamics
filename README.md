@@ -1,4 +1,4 @@
-# READ ME: Projecting the Impact of Rising Temperatures: The Role of Macroeconomic Dynamics.
+# Projecting the Impact of Rising Temperatures: The Role of Macroeconomic Dynamics.
 
 This repository contains the replication package for the study "Projecting the Impact of Rising Temperatures: The Role of Macroeconomic Dynamics" by Gregory Casey, Stephie Fried, and Ethan Goode, published in the *IMF Economic Review* in 2023. The study examines how temperature variations influence economic growth, focusing on the distinction between temporary and permanent effects on output per capita.
 
