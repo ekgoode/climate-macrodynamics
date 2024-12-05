@@ -2,6 +2,8 @@
 
 This repository contains the replication package for the study "Projecting the Impact of Rising Temperatures: The Role of Macroeconomic Dynamics" by Gregory Casey, Stephie Fried, and Ethan Goode, published in the *IMF Economic Review* in 2023. The study examines how temperature variations influence economic growth, focusing on the distinction between temporary and permanent effects on output per capita.
 
+**For greater detail on replicating the results in this repository, please reference the .pdf readme file in the main directory.**
+
 ## Overview
 
 The provided materials include all necessary data and code to reproduce the results presented in the paper. The structure of the repository is as follows:
